@@ -1,7 +1,0 @@
-vless://290310dd-0efc-4858-884b-cf9a6505c2cc@104.17.97.181:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#argo_vpnn
-
-vless://290310dd-0efc-4858-884b-cf9a6505c2cc@104.17.105.186:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#argo_vpnn
-
-vless://290310dd-0efc-4858-884b-cf9a6505c2cc@104.17.114.162:8080?security=&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=join-to.vmessorg.Community.&encryption=none#argo_vpnn
-
-vless://60636682-c754-4dd6-b7f1-789f3b0c75aa@www.speedtest.net:80?path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=99.a.v.y.www.speedtest.net.ftp.debian.iu.photoshott.ir&type=ws#argo_vpnn
